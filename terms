@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms & Conditions – Food Merge: Match & Story</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont,
+        'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: #fdf6ec;
+      color: #2d2d2d;
+      line-height: 1.7;
+      font-size: 16px;
+    }
+
+    /* ── Header ── */
+    header {
+      background: linear-gradient(135deg, #ff7043, #ff9800);
+      color: #fff;
+      padding: 48px 24px 36px;
+      text-align: center;
+    }
+
+    header .emoji { font-size: 52px; display: block; margin-bottom: 12px; }
+
+    header h1 {
+      font-size: 26px;
+      font-weight: 700;
+      margin-bottom: 6px;
+      letter-spacing: -0.3px;
+    }
+
+    header p {
+      font-size: 14px;
+      opacity: 0.88;
+    }
+
+    /* ── Container ── */
+    .container {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+
+    /* ── Section ── */
+    .section {
+      background: #fff;
+      border-radius: 14px;
+      padding: 28px 28px 24px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid #ff7043;
+    }
+
+    .section h2 {
+      font-size: 17px;
+      font-weight: 700;
+      color: #ff7043;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section p {
+      font-size: 15px;
+      color: #444;
+      margin-bottom: 10px;
+    }
+
+    .section p:last-child { margin-bottom: 0; }
+
+    .section ul {
+      padding-left: 20px;
+      margin-top: 6px;
+    }
+
+    .section ul li {
+      font-size: 15px;
+      color: #444;
+      margin-bottom: 6px;
+    }
+
+    /* ── Highlight box ── */
+    .highlight {
+      background: #fff8f0;
+      border: 1px solid #ffd7b5;
+      border-radius: 10px;
+      padding: 16px 18px;
+      margin-top: 10px;
+      font-size: 14px;
+      color: #555;
+    }
+
+    /* ── Contact ── */
+    .contact-box {
+      background: linear-gradient(135deg, #ff7043, #ff9800);
+      color: #fff;
+      border-radius: 14px;
+      padding: 28px;
+      text-align: center;
+      margin-top: 24px;
+    }
+
+    .contact-box h2 {
+      font-size: 18px;
+      margin-bottom: 8px;
+    }
+
+    .contact-box a {
+      color: #fff;
+      font-weight: 700;
+      text-decoration: underline;
+    }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 13px;
+      color: #999;
+    }
+
+    footer a { color: #ff7043; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<!-- ══ HEADER ══════════════════════════════════════════ -->
+<header>
+  <span class="emoji">🍕🍩🍔</span>
+  <h1>Terms &amp; Conditions</h1>
+  <p>Food Merge: Match &amp; Story &nbsp;·&nbsp; The Three Zero Company<br/>
+  Last updated: June 2025</p>
+</header>
+
+<!-- ══ CONTENT ═════════════════════════════════════════ -->
+<div class="container">
+
+  <!-- 1. Acceptance -->
+  <div class="section">
+    <h2>📋 1. Acceptance of Terms</h2>
+    <p>By downloading, installing, or playing <strong>Food Merge: Match &amp; Story</strong> ("the Game"), you agree to be bound by these Terms &amp; Conditions. If you do not agree, please do not use the Game.</p>
+    <p>These terms apply to all users of the Game, including users who make in-app purchases.</p>
+  </div>
+
+  <!-- 2. About the Game -->
+  <div class="section">
+    <h2>🎮 2. About the Game</h2>
+    <p>Food Merge: Match &amp; Story is a casual mobile game developed by <strong>The Three Zero Company</strong>. The Game is available on Android via Google Play Store.</p>
+    <p>The Game involves merging food items, earning scores, and using power-ups. It is intended for general audiences.</p>
+  </div>
+
+  <!-- 3. In-App Purchases -->
+  <div class="section">
+    <h2>💰 3. In-App Purchases</h2>
+    <p>The Game offers optional in-app purchases including:</p>
+    <ul>
+      <li>Coin packs (500, 1600, and 6000 coins)</li>
+      <li>Remove Ads — permanently removes banner and app-open advertisements</li>
+      <li>Bundle Pack — removes ads and includes 500 coins</li>
+    </ul>
+    <div class="highlight">
+      ⚠️ <strong>All purchases are final and non-refundable</strong> unless required by applicable law or Google Play's refund policy. Coins are a virtual in-game currency with no real-world monetary value and cannot be transferred or exchanged for real money.
+    </div>
+    <p style="margin-top:12px;">Purchases are processed by Google Play. By making a purchase, you also agree to Google Play's Terms of Service.</p>
+  </div>
+
+  <!-- 4. Advertisements -->
+  <div class="section">
+    <h2>📢 4. Advertisements</h2>
+    <p>The free version of the Game displays advertisements powered by <strong>Google AdMob</strong>, including:</p>
+    <ul>
+      <li>Banner ads at the bottom of the screen</li>
+      <li>App open ads when the Game launches</li>
+      <li>Optional rewarded ads in exchange for in-game power-ups</li>
+    </ul>
+    <p>Users who purchase the <strong>Remove Ads</strong> or <strong>Bundle Pack</strong> product will not see banner or app-open ads. Rewarded ads remain optional and player-triggered.</p>
+  </div>
+
+  <!-- 5. User Conduct -->
+  <div class="section">
+    <h2>🚫 5. Acceptable Use</h2>
+    <p>You agree not to:</p>
+    <ul>
+      <li>Cheat, hack, or use unauthorised software to modify the Game</li>
+      <li>Attempt to reverse-engineer or decompile the Game</li>
+      <li>Use the Game for any illegal or unauthorised purpose</li>
+      <li>Exploit bugs or glitches to gain unfair advantages</li>
+    </ul>
+    <p>We reserve the right to terminate access for users who violate these terms.</p>
+  </div>
+
+  <!-- 6. Intellectual Property -->
+  <div class="section">
+    <h2>©️ 6. Intellectual Property</h2>
+    <p>All content in the Game — including graphics, sounds, code, and design — is owned by <strong>The Three Zero Company</strong> and protected by applicable intellectual property laws.</p>
+    <p>You are granted a limited, non-exclusive, non-transferable licence to use the Game for personal, non-commercial purposes only.</p>
+  </div>
+
+  <!-- 7. Disclaimer -->
+  <div class="section">
+    <h2>⚠️ 7. Disclaimer of Warranties</h2>
+    <p>The Game is provided <strong>"as is"</strong> without warranties of any kind. We do not guarantee the Game will be error-free, uninterrupted, or free of bugs.</p>
+    <p>We are not liable for any loss of progress, virtual currency, or data resulting from device failure, software bugs, or uninstallation of the Game.</p>
+  </div>
+
+  <!-- 8. Children -->
+  <div class="section">
+    <h2>👶 8. Children's Use</h2>
+    <p>The Game is suitable for all ages. We do not knowingly collect personal information from children under 13. In-app purchases require a payment method — parents and guardians are responsible for purchases made by minors.</p>
+    <p>We recommend enabling parental controls on your device to prevent unintended purchases.</p>
+  </div>
+
+  <!-- 9. Changes -->
+  <div class="section">
+    <h2>🔄 9. Changes to These Terms</h2>
+    <p>We may update these Terms &amp; Conditions from time to time. Continued use of the Game after changes are posted constitutes acceptance of the updated terms.</p>
+    <p>The date of the most recent update is shown at the top of this page.</p>
+  </div>
+
+  <!-- 10. Privacy -->
+  <div class="section">
+    <h2>🔒 10. Privacy Policy</h2>
+    <p>Your use of the Game is also governed by our Privacy Policy, which explains how we collect and use data.</p>
+    <p>
+      👉 <a href="https://blueocan.github.io/foodmerge-privacy/" 
+             style="color:#ff7043; font-weight:700; text-decoration:none;">
+        View our Privacy Policy
+      </a>
+    </p>
+  </div>
+
+  <!-- 11. Governing Law -->
+  <div class="section">
+    <h2>⚖️ 11. Governing Law</h2>
+    <p>These Terms are governed by the laws of India. Any disputes shall be subject to the exclusive jurisdiction of the courts located in India.</p>
+  </div>
+
+  <!-- Contact -->
+  <div class="contact-box">
+    <h2>📬 Questions?</h2>
+    <p style="margin-top:6px; opacity:0.9;">If you have any questions about these Terms &amp; Conditions, contact us at:</p>
+    <p style="margin-top:10px; font-size:17px;">
+      <a href="mailto:thethreezerocompany@gmail.com">
+        thethreezerocompany@gmail.com
+      </a>
+    </p>
+  </div>
+
+</div>
+
+<!-- ══ FOOTER ════════════════════════════════════════════ -->
+<footer>
+  <p>© 2025 The Three Zero Company · 
+    <a href="https://blueocan.github.io/foodmerge-privacy/">Privacy Policy</a> · 
+    Terms &amp; Conditions
+  </p>
+</footer>
+
+</body>
+</html>
